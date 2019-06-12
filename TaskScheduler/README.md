@@ -1,2 +1,2 @@
 # TaskScheduler
-A simple C# based Task Scheduler for scheduling Seconds, Minutes, Hours.
+A simple C# based Task Scheduler for scheduling Seconds, Minutes, Hours based tasks
